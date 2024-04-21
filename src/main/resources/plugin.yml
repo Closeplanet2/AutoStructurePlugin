@@ -3,6 +3,6 @@ version: 1.0.0-a
 main: com.pandapulsestudios.autostructureplugin.AutoStructurePlugin
 api-version: 1.20
 author: Closeplanet2
-depend: [PulseCore, PulseConfig, PulseCommands]
+depend: [PulseCore, PulseConfig, PulseCommands, WorldEdit]
 
 

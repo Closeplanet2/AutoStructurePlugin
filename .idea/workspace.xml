@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="autostructureplugin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea6a2f1e-39e8-4791-92d7-fb8c209dc850" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/autostructureplugin_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/API/CustomSchematicAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/API/PlayerWorldEditAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/BukkitRunnable/GenerationRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/BukkitRunnable/PreGenerationRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/CustomVariable/CustomVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Enum/CustomBlockFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Enum/Extent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Enum/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Enum/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Enum/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Objects/AutoStructureGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/Objects/AutoStructurePreGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PlayerCommands/AutoStructureCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseCLass/CustomSchematicBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseCLass/CustomSchematicBlockNeighbour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseConfig/Menus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseConfig/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseConfig/Permissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseConfig/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/PulseJson/CustomSchematic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/VariableTest/BlockFaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/VariableTest/MenuVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/VariableTest/MessageVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/VariableTest/PermissionVariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/AutoStructurePlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pandapulsestudios/autostructureplugin/AutoStructurePlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/autostructureplugin-1.0.0-a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/autostructureplugin/AutoStructurePlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pandapulsestudios/autostructureplugin/AutoStructurePlugin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f7KmGyReP5OMuJmEnAFVfEJW6p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Coding Portfolio/Spigot Plugins/AutoStructurePlugin/src/main/java/com/pandapulsestudios/autostructureplugin/PulseCLass&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.16503906&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2880562&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding Portfolio\Spigot Plugins\AutoStructurePlugin\src\main\java\com\pandapulsestudios\autostructureplugin\PulseCLass" />
+      <recent name="D:\Coding Portfolio\Spigot Plugins\AutoStructurePlugin\src\main\java\com\pandapulsestudios\autostructureplugin\API" />
+      <recent name="D:\Coding Portfolio\Spigot Plugins\AutoStructurePlugin\src\main\java\com\pandapulsestudios\autostructureplugin" />
+      <recent name="D:\Coding Portfolio\Spigot Plugins\AutoStructurePlugin\src\main\java\com\pandapulsestudios\autostructureplugin\Enum" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoStructurePlugin package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea6a2f1e-39e8-4791-92d7-fb8c209dc850" name="Changes" comment="" />
+      <created>1713146833339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713146833339</updated>
+      <workItem from="1713146834373" duration="31309000" />
+      <workItem from="1713213857525" duration="1987000" />
+      <workItem from="1713559316974" duration="625000" />
+    </task>
+    <servers />
+  </component>
+</project>
